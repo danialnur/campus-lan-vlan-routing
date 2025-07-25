@@ -1,9 +1,7 @@
-# campus-lan-vlan-routing
+# Campus-LAN-VLAN-Routing
 A Cisco Packet Tracer simulation of a campus network using VLANs, trunking, and inter-VLAN routing.
 
-# VLAN Configuration and Inter-VLAN Routing (Router-on-a-Stick)
-
-This project simulates a small office network using Cisco Packet Tracer. It demonstrates VLAN segmentation, inter-VLAN routing using Router-on-a-Stick, and DHCP services via router.
+This project simulates a basic campus network using Cisco Packet Tracer. It demonstrates how to segment network traffic using VLANs, configure inter-VLAN routing using the Router-on-a-Stick method, and provide IP addressing via DHCP from the router.
 
 ## 📁 Topology Overview
 
