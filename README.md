@@ -1,18 +1,14 @@
-📡 Campus LAN VLAN Routing (Router-on-a-Stick with DHCP)
+# 📡 Campus VLAN Routing with DHCP – Cisco Packet Tracer Project
 
-This project simulates a small campus network using Cisco Packet Tracer, focusing on the implementation of VLAN segmentation, trunking, and inter-VLAN routing using the Router-on-a-Stick method. A single router handles dynamic IP assignment for each VLAN via DHCP, while a Layer 2 switch manages VLAN assignments and trunk connections.
+This project showcases a basic campus LAN setup in **Cisco Packet Tracer**, focusing on core networking concepts such as **VLAN segmentation**, **inter-VLAN routing using Router-on-a-Stick**, and **DHCP configuration**. It demonstrates how to isolate departments using VLANs, configure trunk ports, and dynamically assign IP addresses per VLAN through router-based DHCP.
 
-The project demonstrates foundational skills in:
+This simulation reflects foundational networking skills relevant for **Network Engineer roles**, including:
 
-VLAN configuration
-
-Trunk port setup
-
-Subinterface routing
-
-DHCP scope allocation per VLAN
-
-Basic network segmentation and isolation
+- VLAN creation and access port assignment  
+- Trunk port setup between switch and router  
+- Subinterface configuration for inter-VLAN routing  
+- DHCP exclusion and pool configuration per VLAN  
+- Network segmentation and isolation best practices
 
 ## 📁 Topology Overview
 
